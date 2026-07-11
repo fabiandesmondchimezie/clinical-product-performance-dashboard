@@ -1,5 +1,8 @@
 # Clinical Product Performance Dashboard
 
+![Dashboard Preview](Screenshot_20260711-132759.jpg)
+
+
 ## Project Overview
 This repository contains the backend database configuration, clinical risk intelligence logic, and frontend visualization blueprints for a **Remote Patient Monitoring (RPM)** data pipeline. The project bridges clinical safety parameters with product engagement metrics to identify high-risk patients and optimize care delivery compliance.
 
